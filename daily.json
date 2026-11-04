@@ -1,4 +1,16 @@
 {
   "date": "2026-11-04",
-  "patrons": []
+  "patrons": [
+    {
+      "id": "kazanskaya-ikona",
+      "name": "Казанская икона Божией Матери",
+      "shortName": "Казанская икона",
+      "rank": "праздник",
+      "feastDays": [
+        "11-04"
+      ],
+      "description": "",
+      "link": ""
+    }
+  ]
 }
