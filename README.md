@@ -4,8 +4,8 @@ temple-patrons
 
 Адрес данных
 
-https://ТВОЙ-ЛОГИН.github.io/temple-patrons/patrons.json
-https://ТВОЙ-ЛОГИН.github.io/temple-patrons/daily.json
+https://cdn.jsdelivr.net/gh/evgeniihram/temple-patrons@main/patrons.json
+https://cdn.jsdelivr.net/gh/evgeniihram/temple-patrons@main/daily.json
 
 Формат patrons.json
 
@@ -30,7 +30,7 @@ patrons — массив записей, у которых сегодня ден
 В нужном месте HTML:
 
 <div data-patron-widget></div>
-<script src="https://ТВОЙ-ЛОГИН.github.io/temple-patrons/widget.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/evgeniihram/temple-patrons@main/widget.js" defer></script>
 
 Чтобы показать весь список, а не только сегодняшнего:
 
@@ -40,7 +40,7 @@ patrons — массив записей, у которых сегодня ден
 
 Как вставить через iframe
 
-<iframe src="https://ТВОЙ-ЛОГИН.github.io/temple-patrons/widget.html" width="100%" height="400" style="border:0"></iframe>
+<iframe src="https://cdn.jsdelivr.net/gh/evgeniihram/temple-patrons@main/widget.html" width="100%" height="400" style="border:0"></iframe>
 
 Лицензия
 

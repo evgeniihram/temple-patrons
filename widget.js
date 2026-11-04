@@ -1,5 +1,5 @@
 (function () {
-  var BASE = 'https://evgeniihram.github.io/temple-patrons';
+  var BASE = 'https://cdn.jsdelivr.net/gh/evgeniihram/temple-patrons@main';
   var nodes = document.querySelectorAll('[data-patron-widget]');
   if (!nodes.length) return;
 
