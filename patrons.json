@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "patrons": [
+    {
+      "id": "evgeny-melitinsky",
+      "name": "Мученик Евгений Мелитинский",
+      "shortName": "Евгений Мелитинский",
+      "rank": "мученик",
+      "feastDays": ["11-20"],
+      "description": "Краткое описание своими словами",
+      "link": ""
+    },
+    {
+      "id": "evgeny-sevastijsky",
+      "name": "Мученик Евгений Севастийский",
+      "shortName": "Евгений Севастийский",
+      "rank": "мученик",
+      "feastDays": ["12-26"],
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "evgenia-rimskaya",
+      "name": "Преподобномученица Евгения Римская, дева",
+      "shortName": "Евгения Римская",
+      "rank": "преподобномученица",
+      "feastDays": ["01-06"],
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "evgeny-trapezundsky",
+      "name": "Мученик Евгений Трапезундский",
+      "shortName": "Евгений Трапезундский",
+      "rank": "мученик",
+      "feastDays": ["02-03"],
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "evgeny-vifinsky",
+      "name": "Преподобный Евгений Вифинский",
+      "shortName": "Евгений Вифинский",
+      "rank": "преподобный",
+      "feastDays": ["02-25"],
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "evgeny-chersonessky",
+      "name": "Священномученик Евгений Херсонесский, епископ",
+      "shortName": "Евгений Херсонесский",
+      "rank": "священномученик",
+      "feastDays": ["03-20", "12-28"],
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "evgeny-botkin",
+      "name": "Праведный Евгений Боткин, врач, страстотерпец",
+      "shortName": "Евгений Боткин",
+      "rank": "праведный",
+      "feastDays": ["07-17"],
+      "description": "",
+      "link": ""
+    }
+  ]
+}

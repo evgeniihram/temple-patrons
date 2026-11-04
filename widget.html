@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Небесные покровители</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  .patron-widget-box { border: 1px solid #ddd; border-radius: 8px; padding: 1rem; margin: 1rem 0; }
+  .patron-label { font-size: 0.9em; color: #666; margin-bottom: 0.5rem; }
+  .patron-name { font-weight: 600; margin: 0.25rem 0; }
+  .patron-desc { color: #444; font-size: 0.95em; }
+  .patron-list { padding-left: 1.2rem; margin: 0; }
+  .patron-item { margin: 0.5rem 0; }
+  .patron-date { color: #888; margin-right: 0.5rem; }
+</style>
+</head>
+<body>
+<h1>Небесные покровители</h1>
+<h2>Сегодня</h2>
+<div data-patron-widget></div>
+<h2>Все покровители</h2>
+<div data-patron-widget="full"></div>
+<script src="./widget.js" defer></script>
+</body>
+</html>
